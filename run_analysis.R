@@ -1,5 +1,5 @@
 library(dplyr)
- 
+
 # Download zip into folder
 if(!file.exists("Assignment.zip")) {
 	url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
