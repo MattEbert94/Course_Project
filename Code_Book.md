@@ -1,14 +1,3 @@
----
-title: "Code_Book"
-author: "Me"
-date: "1/3/2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## run_analysis.R Explanation
 
 The run_analysis.R file downloads the data from the ZIP file and extracts it to a local variable. This data is used throughout to be manipulated and adjusted to meet the assignment criteria.
